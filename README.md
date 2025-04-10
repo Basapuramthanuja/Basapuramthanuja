@@ -9,6 +9,11 @@
     🛠️ Lifelong learner who loves sharing knowledge. 🛠️
     🎤 Enjoys being an MC and organizing events. 🎤
     ✨ Thrives on creativity and teamwork. ✨
+ 🏅 Achievements
+      🥇 Student of Excellence performance in school.🥇
+      📜 infosys certificate:python
+      🏆 Winner of school and college-level quiz and coding competitions. 🏆
+      
 
 
 <!---
